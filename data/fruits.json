@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Apel",
+        "price": 20000,
+        "stock": 50,
+        "category": "citrus",
+        "availability": "available"
+    },
+    {
+        "name": "Pisang",
+        "price": 15000,
+        "stock": 30,
+        "category": "tropical",
+        "availability": "available"
+    },
+    {
+        "name": "sdsd",
+        "price": "32",
+        "stock": "323",
+        "category": "citrus",
+        "availability": "available"
+    },
+    {
+        "name": "ddc",
+        "price": "32",
+        "stock": "2",
+        "category": "citrus",
+        "availability": "available"
+    }
+]

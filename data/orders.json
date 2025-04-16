@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "phone": "081234567890",
+        "fruit": "Apel",
+        "quantity": 2,
+        "delivery_date": "2025-04-16",
+        "payment_method": "Transfer Bank"
+    },
+    {
+        "name": "Jane Smith",
+        "phone": "081987654321",
+        "fruit": "Pisang",
+        "quantity": 5,
+        "delivery_date": "2025-04-17",
+        "payment_method": "COD"
+    },
+    {
+        "name": "sds",
+        "phone": "245",
+        "fruit": "Apel",
+        "quantity": "2",
+        "delivery_date": "2025-04-16",
+        "payment_method": "COD"
+    }
+]
